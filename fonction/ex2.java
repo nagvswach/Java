@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ex2 {
 
     public static double moy(int a, int b){
-        return (a + b)/2;
+        return (a + b)/2.0;
     }
     public static void main(String[] args) {
 
